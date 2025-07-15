@@ -1,0 +1,4 @@
+# this is for greyed out auto complete
+ble-face auto_complete='fg=242, bg=default'
+# this is to disable syntax highlighting
+bleopt highlight_syntax=

@@ -19,3 +19,11 @@ rd_ed25519
 .wakatime.cfg
 .wakatime/
 .bash_history
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
