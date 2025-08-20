@@ -28,7 +28,7 @@ alias dnfupd='sudo dnf update && sudo dnf upgrade'
 alias flpupd='flatpak update'
 alias dnfinf='sudo dnf install'
 alias shd='shutdown now'
-alias ssh379="ssh -p 379 superuser@192.168.1.79"
+alias ssh379="ssh -p 379 superuser2@192.168.1.79"
 
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # export SYSTEMD_PAGER=
